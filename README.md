@@ -7,6 +7,9 @@ basic CLI based music dbms (ITE2038 Database System course)
 ## Program Overview
 <img width="449" alt="overview" src="https://user-images.githubusercontent.com/33930852/64963249-eb5dc180-d8d3-11e9-9f33-e717e32be2e3.png">
 
+## Detail & Code
+For more detailed information, please read [report](./report.pdf).
+
 ## Examples
 **Mode select**
 
